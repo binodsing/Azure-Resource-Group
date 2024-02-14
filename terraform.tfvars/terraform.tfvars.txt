@@ -1,0 +1,7 @@
+rgs={
+    rg={
+       "name"="example"
+       "location"= example
+       }
+
+}
